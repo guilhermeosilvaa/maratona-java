@@ -18,6 +18,6 @@ public class Aula02TiposPrimitivos {
         System.out.println("A idade é de "+name+" é "+age+" anos" );
         System.out.println(falso);
         System.out.println("char "+caractere);
-        System.out.println("Oi meu noem é "+nome);
+        System.out.println("Oi meu nome é "+nome);
     }
 }
