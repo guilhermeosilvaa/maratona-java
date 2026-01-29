@@ -19,5 +19,6 @@ public class Aula02TiposPrimitivos {
         System.out.println(falso);
         System.out.println("char "+caractere);
         System.out.println("Oi meu nome é "+nome);
+
     }
 }

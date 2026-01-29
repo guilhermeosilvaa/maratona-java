@@ -18,11 +18,11 @@ public class Aula04Operadores {
         boolean isDezIgualQueVinte = 10 == 20;
         boolean isDezIgualDez = 10 == 10;
         boolean isDezDiferenteDez = 10 != 10;
-        System.out.println(isDezMaiorQueVinte);
-        System.out.println(isDezMenorQueVinte);
-        System.out.println(isDezIgualQueVinte);
-        System.out.println(isDezIgualDez);
-        System.out.println(isDezDiferenteDez);
+        System.out.println("isDezMaiorQueVinte "+isDezMaiorQueVinte);
+        System.out.println("isDezMenorQueVinte "+isDezMenorQueVinte);
+        System.out.println("isDezIgualQueVinte "+isDezIgualQueVinte);
+        System.out.println("isDezIgualDez "+isDezIgualDez);
+        System.out.println("isDezDiferenteDez "+isDezDiferenteDez);
 
         // && (AND) || (or) ! (NOT)
         int idade = 28;

@@ -4,7 +4,7 @@ import java.time.LocalDate;
 /*
 Pratica
 
-Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensaem:
+Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem:
 
 Eu <nome>, morando no endereco <endereco> confirmo que recebi o salário de <salario>, na data <data>
 */
