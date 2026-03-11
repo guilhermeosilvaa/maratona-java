@@ -59,4 +59,4 @@ O conteúdo deste repositório será atualizado conforme novos conceitos forem a
 
 ---
 
-✨ *Este repositório representa minha jornada de aprendizado em Java e meu compromisso com a evolução como desenvolvedor.* 
+✨ *Este repositório representa minha jornada de aprendizado em Java e meu compromisso com a evolução como Automatizador.* 
