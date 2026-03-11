@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.cafezinho.maratonajava.introducao;
 import java.time.LocalDate;
 
 /*
