@@ -3,7 +3,7 @@ package academy.cafezinho.maratonajava.introducao;
 /**
  *  Isso é um comentário <b>javadoc<b>
  */
-public class OlaCafezinho {
+public class Aula01OlaCafezinho {
     // Isso é um comentario de uma linha
     /*
     Isso é um comentario
