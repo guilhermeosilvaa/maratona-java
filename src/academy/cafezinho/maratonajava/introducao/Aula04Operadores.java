@@ -9,5 +9,7 @@ public class Aula04Operadores {
         System.out.println(resultado);
 
         // %
+        int resto = 21 % 7;
+        System.out.println(resto);
     }
 }
