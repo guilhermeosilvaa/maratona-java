@@ -12,7 +12,7 @@ public class Aula03TiposPrimitivosExercicio {
         String nome = "Guilherme O. Silva";
         String endereço = "Av Anjos das Graças";
         double salarioRecebido = 3035.12;
-        LocalDate dataRecebimento = LocalDate.of(2026, 3, 17);
+        LocalDate dataRecebimento = LocalDate.of(2026, 3, 29);
 
         String relatorioDados = "Eu " +nome+ ", morando no endereço " +endereço+ ", confirmo que recebi o salario de " +
                 +salarioRecebido+ ", na data " +dataRecebimento;
